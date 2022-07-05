@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#pro,#name{
+    background-color: rgb(227, 134, 150);
+    color: maroon;
+    padding: 50px;
+    font-size: xx-large;
+    text-align: center;
+}
+.links{
+    font-size: xx-large;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+#image{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+hr{
+    width: 1000px;
+}
+#about{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+p{
+    font-size: xx-large;
+}
+#work{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+#interests{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+#skills{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+li{
+    justify-content: space-around;
+    width: 100%;
+    list-style: none;
+    padding: 5px;
+}
+progress[value]{
+    height: 10px;
+    width: 350px;
+    -webkit-appearance: none;
+}
+#resume{
+    padding: 5px 0 5px 0;
+    font-size: 15px;
+}
+#contact{
+    padding: 50px;
+    font-size: x-large;
+    color: maroon;
+}
+
